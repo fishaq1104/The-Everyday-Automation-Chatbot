@@ -186,7 +186,6 @@ You can replace each line below with an actual image after testing.
 
 This is the Proof it works :
 <img width="1310" height="565" alt="image" src="https://github.com/user-attachments/assets/105e551a-a7ce-411f-84c3-f57af8efb3fc" />
-<img width="1086" height="561" alt="Screenshot 2026-04-24 123140" src="https://github.com/user-attachments/assets/1c0d2c05-19e4-4a16-b626-950de2b290ac" />
 <img width="1310" height="565" alt="Screenshot 2026-04-24 125758" src="https://github.com/user-attachments/assets/2b260653-4e91-4750-829d-95e6049eae46" />
 <img width="1310" height="565" alt="Screenshot 2026-04-24 125758" src="https://github.com/user-attachments/assets/0deab58c-9bfb-4b39-a934-ebc855299f6f" />
 <img width="668" height="577" alt="Screenshot 2026-04-24 125050" src="https://github.com/user-attachments/assets/64ae630e-19ad-4753-a7dc-a0fd155338cc" />
