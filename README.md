@@ -184,11 +184,11 @@ You can replace each line below with an actual image after testing.
 - News source: Hacker News Firebase API.
 - Weather source: Open-Meteo APIs.
 
-## Next Improvements (if you want to extend)
+This is the Proof it works :
+<img width="1310" height="565" alt="image" src="https://github.com/user-attachments/assets/105e551a-a7ce-411f-84c3-f57af8efb3fc" />
+<img width="1345" height="496" alt="Screenshot 2026-01-15 191509" src="https://github.com/user-attachments/assets/6041d505-231f-4deb-ad4f-18d3ac28d20c" />
+<img width="116" height="193" alt="Screenshot 2026-02-07 192954" src="https://github.com/user-attachments/assets/27c2ab77-97e5-4a87-8773-07034fdb80f6" />
+<img width="116" height="193" alt="Screenshot 2026-02-07 192954" src="https://github.com/user-attachments/assets/db556de2-5eb5-4907-af5a-e74a8de3a29d" />
+<img width="1353" height="472" alt="Screenshot 2026-02-24 193043" src="https://github.com/user-attachments/assets/0a4b8d3f-8ea8-442a-b309-22510a6b0dad" />
 
-- Add per-user timezone support
-- Add command to disable reminders
-- Add pagination for news output
-- Add optional AI summary for top headlines
-- Deploy with Docker or a cloud worker/VM
 
