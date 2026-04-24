@@ -192,7 +192,7 @@ This is the Proof it works :
 <img width="744" height="482" alt="Screenshot 2026-04-24 114249" src="https://github.com/user-attachments/assets/e9977153-33c5-4a99-9ce6-730dfee22587" />
 <img width="1331" height="581" alt="Screenshot 2026-04-24 124536" src="https://github.com/user-attachments/assets/f244551b-151d-4dc2-aeec-199f68e8cef3" />
 <img width="965" height="494" alt="Screenshot 2026-04-24 114052" src="https://github.com/user-attachments/assets/e1461fba-7501-4040-978f-495c96151389" />
-<img width="716" height="319" alt="Screenshot 2026-04-24 113754" src="https://github.com/user-attachments/assets/47480925-4dff-4776-9dee-2ce6a5f6b15d" />
+
 
 
 
